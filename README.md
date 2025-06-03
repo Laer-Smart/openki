@@ -1,2 +1,3 @@
 # openki
-tools for building and working with AI
+
+Tools for building and working with AI when training
