@@ -1,0 +1,29 @@
+Q: What is the capital of France?
+A: Paris
+
+Q: What is the capital of Japan?
+A: Tokyo
+
+Q: What is the capital of Canada?
+A: Ottawa
+
+Q: What is the capital of Australia?
+A: Canberra
+
+Q: What is the capital of Germany?
+A: Berlin
+
+Q: What is the capital of the United Kingdom?
+A: London
+
+Q: What is the capital of Italy?
+A: Rome
+
+Q: What is the capital of Spain?
+A: Madrid
+
+Q: What is the capital of Brazil?
+A: Brasília
+
+Q: What is the capital of India?
+A: New Delhi
